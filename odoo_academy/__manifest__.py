@@ -20,6 +20,9 @@
     
     "version": "0.1",
     
+    'installable': True,
+    'application': True,
+    
     "depends": ['base'],
     
     "data": [
